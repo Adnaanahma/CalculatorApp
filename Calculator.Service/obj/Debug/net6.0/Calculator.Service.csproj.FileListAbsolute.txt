@@ -1,0 +1,17 @@
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\Calculator.Service.deps.json
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\Calculator.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\ref\Calculator.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\Calculator.Service.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorModel.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorModel.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.CopyComplete
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\ref\Calculator.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorMigration.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorMigration.pdb

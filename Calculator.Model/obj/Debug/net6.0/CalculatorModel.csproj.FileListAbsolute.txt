@@ -1,0 +1,12 @@
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\bin\Debug\net6.0\CalculatorModel.deps.json
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\bin\Debug\net6.0\CalculatorModel.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\bin\Debug\net6.0\ref\CalculatorModel.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\bin\Debug\net6.0\CalculatorModel.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\ref\CalculatorModel.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Model\obj\Debug\net6.0\CalculatorModel.pdb

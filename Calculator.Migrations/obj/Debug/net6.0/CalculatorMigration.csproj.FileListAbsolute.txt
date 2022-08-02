@@ -1,0 +1,5 @@
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Migrations\obj\Debug\net6.0\CalculatorMigration.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Migrations\obj\Debug\net6.0\CalculatorMigration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Migrations\obj\Debug\net6.0\CalculatorMigration.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Migrations\obj\Debug\net6.0\CalculatorMigration.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Migrations\obj\Debug\net6.0\CalculatorMigration.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.deps.json
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.runtimeconfig.json
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\ref\CalculatorMigration.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorModel.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorModel.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.csproj.CopyComplete
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\ref\CalculatorMigration.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.genruntimeconfig.cache
