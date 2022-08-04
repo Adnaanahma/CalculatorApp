@@ -16,6 +16,7 @@ namespace Calculator.Service.Implementations
         Task<double> Exponential(RaiseToPowerModel model);
         Task<double> Density(DensityOfObjectModel model);
         Task<double> Percentage(PercentageModel model);
+        Task<double> Acceleration(AccelerationModel model);
         Task<List<CalculationHistoryModel>> GetHistory();
         
     }

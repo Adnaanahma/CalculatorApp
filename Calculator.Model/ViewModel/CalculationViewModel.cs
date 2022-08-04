@@ -20,6 +20,11 @@
         public double NumberA { get; set; }
         public double NumberB { get; set; }
     }
+    public class AccelerationModel
+    {
+        public double Velocity { get; set; }
+        public double Time { get; set; }
+    }
     public class AreaOfRectangleModel
     {
         public double NumberA { get; set; }
