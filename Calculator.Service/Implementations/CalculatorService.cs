@@ -50,6 +50,24 @@ namespace Calculator.Service.Implementations
             return formula;
         }
         /// <summary>
+        /// Acceleration Of An Object
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
+        public async Task<double> Acceleration(AccelerationModel model)
+        {
+            var formula = model.Velocity / model.Time;
+            var history = new CalculationHistory
+            {
+                DataPerformed = DateTime.Now,
+                Action = "Acceleration",
+                Answer = formula.ToString()
+            };
+            _calculatorContext.Calculator.Add(history);
+            await _calculatorContext.SaveChangesAsync();
+            return formula;
+        }
+        /// <summary>
         /// Division Of Two Numbers
         /// </summary>
         /// <param name="model"></param>

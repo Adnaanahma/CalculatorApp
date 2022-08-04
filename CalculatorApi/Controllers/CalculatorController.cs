@@ -81,6 +81,17 @@ namespace CalculatorApi.Controllers
             return Ok(response);
         }
         /// <summary>
+        /// Acceleration Controller
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
+        [HttpPost("AccelerationModel")]
+        public async Task<IActionResult> Acceleration(AccelerationModel model)
+        {
+            var response = await _calculatorService.Acceleration(model);
+            return Ok(response);
+        }
+        /// <summary>
         /// Weight Controller
         /// </summary>
         /// <param name="model"></param>
