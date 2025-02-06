@@ -15,3 +15,21 @@ C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculato
 C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.pdb
 C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorMigration.dll
 C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorMigration.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\Calculator.Service.deps.json
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\Calculator.Service.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\Calculator.Service.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorMigration.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorModel.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorModel.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\bin\Debug\net6.0\CalculatorMigration.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.AssemblyReference.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.AssemblyInfoInputs.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.AssemblyInfo.cs
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.sourcelink.json
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculat.761DF91A.Up2Date
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\refint\Calculator.Service.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\Calculator.Service.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\Calculator.Service\obj\Debug\net6.0\ref\Calculator.Service.dll

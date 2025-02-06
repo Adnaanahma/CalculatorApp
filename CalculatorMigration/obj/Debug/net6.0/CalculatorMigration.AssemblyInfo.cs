@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorMigration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09c63b18c1332ad7b607a8c3369f01f6628b9217")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculatorMigration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculatorMigration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

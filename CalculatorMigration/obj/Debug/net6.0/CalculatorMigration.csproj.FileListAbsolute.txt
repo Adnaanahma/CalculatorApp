@@ -15,3 +15,21 @@ C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\Calculato
 C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\ref\CalculatorMigration.dll
 C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.pdb
 C:\Users\Sumayya Uthman\source\repos\Application\New App\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.genruntimeconfig.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.deps.json
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.runtimeconfig.json
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorMigration.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorModel.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\bin\Debug\net6.0\CalculatorModel.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.csproj.AssemblyReference.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.AssemblyInfoInputs.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.AssemblyInfo.cs
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.sourcelink.json
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\Calculat.72614C5D.Up2Date
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\refint\CalculatorMigration.dll
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.pdb
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\CalculatorMigration.genruntimeconfig.cache
+C:\Users\Abdul\Source\Repos\Adnan\CalculatorApp\CalculatorMigration\obj\Debug\net6.0\ref\CalculatorMigration.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sumayya Uthman\\source\\repos\\Application\\New App\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj": {}
+    "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sumayya Uthman\\source\\repos\\Application\\New App\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj": {
+    "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sumayya Uthman\\source\\repos\\Application\\New App\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj",
+        "projectUniqueName": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj",
         "projectName": "CalculatorModel",
-        "projectPath": "C:\\Users\\Sumayya Uthman\\source\\repos\\Application\\New App\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj",
-        "packagesPath": "C:\\Users\\Sumayya Uthman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sumayya Uthman\\source\\repos\\Application\\New App\\CalculatorApp\\Calculator.Model\\obj\\",
+        "projectPath": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\Calculator.Model\\CalculatorModel.csproj",
+        "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\Calculator.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sumayya Uthman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

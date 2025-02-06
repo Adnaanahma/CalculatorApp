@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EA43A6-0761-4343-AC65-D85C248B538C}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EA43A6-0761-4343-AC65-D85C248B538C}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EA43A6-0761-4343-AC65-D85C248B538C}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculatorapi\\calculatorapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22EA43A6-0761-4343-AC65-D85C248B538C}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\calculatorapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E311AE9-8710-4932-98BE-2A2D8B9CC507}|Calculator.Service\\Calculator.Service.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculator.service\\implementations\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E311AE9-8710-4932-98BE-2A2D8B9CC507}|Calculator.Service\\Calculator.Service.csproj|solutionrelative:calculator.service\\implementations\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EA43A6-0761-4343-AC65-D85C248B538C}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EA43A6-0761-4343-AC65-D85C248B538C}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E311AE9-8710-4932-98BE-2A2D8B9CC507}|Calculator.Service\\Calculator.Service.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculator.service\\implementations\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E311AE9-8710-4932-98BE-2A2D8B9CC507}|Calculator.Service\\Calculator.Service.csproj|solutionrelative:calculator.service\\implementations\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADB6D6-DDE8-4858-BFEA-5668AEBF8BE6}|Calculator.Model\\CalculatorModel.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculator.model\\viewmodel\\calculationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADB6D6-DDE8-4858-BFEA-5668AEBF8BE6}|Calculator.Model\\CalculatorModel.csproj|solutionrelative:calculator.model\\viewmodel\\calculationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C7086C-3B25-49C9-9C50-028D0D6CE9ED}|CalculatorMigration\\CalculatorMigration.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculatormigration\\migrations\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C7086C-3B25-49C9-9C50-028D0D6CE9ED}|CalculatorMigration\\CalculatorMigration.csproj|solutionrelative:calculatormigration\\migrations\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C7086C-3B25-49C9-9C50-028D0D6CE9ED}|CalculatorMigration\\CalculatorMigration.csproj|c:\\users\\abdul\\source\\repos\\adnan\\calculatorapp\\calculatormigration\\calculatormigration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5C7086C-3B25-49C9-9C50-028D0D6CE9ED}|CalculatorMigration\\CalculatorMigration.csproj|solutionrelative:calculatormigration\\calculatormigration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\CalculatorApi\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\CalculatorApi\\Program.cs",
+              "RelativeToolTip": "CalculatorApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:28:49.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorApi",
+              "DocumentMoniker": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\CalculatorApi\\CalculatorApi.csproj",
+              "RelativeDocumentMoniker": "CalculatorApi\\CalculatorApi.csproj",
+              "ToolTip": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\CalculatorApi\\CalculatorApi.csproj",
+              "RelativeToolTip": "CalculatorApi\\CalculatorApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T15:27:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\CalculatorApi\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorApi\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\CalculatorApi\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorApi\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAGgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:22:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\Calculator.Service\\Implementations\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Calculator.Service\\Implementations\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\Calculator.Service\\Implementations\\ICalculatorService.cs",
+              "RelativeToolTip": "Calculator.Service\\Implementations\\ICalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:22:43.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\Calculator.Model\\ViewModel\\CalculationViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator.Model\\ViewModel\\CalculationViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\Calculator.Model\\ViewModel\\CalculationViewModel.cs",
+              "RelativeToolTip": "Calculator.Model\\ViewModel\\CalculationViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:22:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\CalculatorMigration\\Migrations\\CalculatorContext.cs",
+              "RelativeDocumentMoniker": "CalculatorMigration\\Migrations\\CalculatorContext.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\CalculatorMigration\\Migrations\\CalculatorContext.cs",
+              "RelativeToolTip": "CalculatorMigration\\Migrations\\CalculatorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:22:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\Calculator.Service\\Implementations\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Calculator.Service\\Implementations\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\CalculatorApp\\Calculator.Service\\Implementations\\CalculatorService.cs",
+              "RelativeToolTip": "Calculator.Service\\Implementations\\CalculatorService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:22:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorMigration.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\CalculatorMigration\\CalculatorMigration.csproj",
+              "RelativeDocumentMoniker": "CalculatorMigration\\CalculatorMigration.csproj",
+              "ToolTip": "C:\\Users\\Abdul\\Source\\Repos\\Adnan\\CalculatorApp\\CalculatorMigration\\CalculatorMigration.csproj",
+              "RelativeToolTip": "CalculatorMigration\\CalculatorMigration.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T15:22:43.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

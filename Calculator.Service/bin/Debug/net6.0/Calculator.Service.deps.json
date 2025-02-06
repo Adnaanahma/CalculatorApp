@@ -464,12 +464,18 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1"
         },
         "runtime": {
-          "CalculatorMigration.dll": {}
+          "CalculatorMigration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CalculatorModel/1.0.0": {
         "runtime": {
-          "CalculatorModel.dll": {}
+          "CalculatorModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

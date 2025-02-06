@@ -1,0 +1,225 @@
+[
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Acceleration",
+    "RelativePath": "api/Calculator/AccelerationModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.AccelerationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Addition",
+    "RelativePath": "api/Calculator/AdditionModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.AdditionModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Area",
+    "RelativePath": "api/Calculator/AreaOfRectangleModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.AreaOfRectangleModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Density",
+    "RelativePath": "api/Calculator/DensityOfObjectModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.DensityOfObjectModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Division",
+    "RelativePath": "api/Calculator/DivisionModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.DivisionModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Calculator/GetHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Multiplication",
+    "RelativePath": "api/Calculator/MultiplicationModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.MultiplicationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Percentage",
+    "RelativePath": "api/Calculator/PercentageModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.PercentageModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Exponential",
+    "RelativePath": "api/Calculator/RaiseToPowerModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.RaiseToPowerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "SquareRoot",
+    "RelativePath": "api/Calculator/SquareRootModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.SquareRootModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Subtraction",
+    "RelativePath": "api/Calculator/SubtractionModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.SubtractionModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Volume",
+    "RelativePath": "api/Calculator/VolumeOfCubeModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.VolumeOfCubeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.CalculatorController",
+    "Method": "Weight",
+    "RelativePath": "api/Calculator/WeightOfObjectModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CalculatorModel.ViewModel.WeightOfObjectModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CalculatorApi.WeatherForecast, CalculatorApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

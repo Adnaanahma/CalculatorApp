@@ -486,7 +486,10 @@
       },
       "CalculatorModel/1.0.0": {
         "runtime": {
-          "CalculatorModel.dll": {}
+          "CalculatorModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
